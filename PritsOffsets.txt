@@ -1,0 +1,1641 @@
+265 Siegrest Draw
+425 AAA Tank
+553 Adobe Draw
+710 Adobe Flat
+829 Alacran Hills
+952 Alkali Lake
+1078 Allen Well
+1197 Anderson Young Ranch
+1336 Andrews Well
+1455 Angel Draw
+1605 Angel Ranch
+1724 Antelope Sink
+1847 Apple Draw
+2002 Apple Tank
+2138 Arnold Well
+2257 Artesia
+2388 Avalon Hills
+2509 Bailey Well
+2631 Baldridge Well
+2757 Bates Ranch
+2875 Beaman Tank
+3005 Bear Grass Draw
+3166 Beardon Well
+3286 Beeson Station
+3408 Ben Slaughter Draw
+3575 Ben Slaughter Spring
+3717 Benson Ranch
+3841 Big Sinks
+3955 Big Tank
+4085 Big Tank
+4217 Black Muley Mill
+4343 Blue Spring
+4481 Bogle Tank
+4614 Bond Draw
+4766 Bond Ranch
+4886 Bone Tank Draw
+5047 Booker Camp
+5166 Boone Beach Ranch
+5294 Bottomless Lakes
+5435 Box Canyon Ranch
+5565 Box Spring
+5702 Boyds Canyon
+5860 Brainard Lake
+5990 Bubbling Spring
+6124 Bunting Ranch
+6248 Burro Hill
+6367 Burro Tank
+6498 Burro Well
+6614 Burton Flat
+6730 Bushy Knob
+6843 Butcher Well
+6972 Byrnes Tank
+7105 C C Tank
+7236 C P Hill
+7361 CCC Tank
+7491 Calabaza Draw
+7651 Campbell Ranch
+7776 Carlsbad
+7913 Carlsbad National Wildlife Refuge
+8053 Carnero Peak
+8175 Carper Windmill
+8300 Cass Draw
+8449 Cass Ranch
+8573 Cat Claw Draw
+8732 Catclaw Draw
+8890 Catclaw Draw
+9050 Catclaw Draw
+9203 Catclaw Draw
+9371 Cave Lake
+9499 Cedar Breaks
+9618 Cedar Canyon
+9777 Cedar Lake
+9902 Cedar Lake Draw
+10062 Cement Tank Well
+10182 Central School
+10301 Charley White Draw
+10475 Childress Recorder Well
+10600 China Draw
+10750 Chinaberry Well
+10866 Chosa Draw
+11027 Clayton Basin
+11152 Clayton Wells
+11276 Cleveland Ranch
+11394 Cocke Tank
+11527 Coffin Ranch
+11649 Coffin Tank
+11784 Cone Butte
+11904 Corral
+12016 Cotton Compress
+12138 Cottonwood Artesian Recorder Well
+12273 Cottonwood Community Church
+12405 Cottonwood Creek
+12566 Cottonwood Draw
+12730 Cottonwood Hills
+12859 Cottonwood Ranch
+12988 Cottonwood School
+13110 Cottonwood Spring
+13249 Cottonwood Spring
+13390 Cox Ranch
+13518 Crawford Ranch
+13644 Crockett Ranch
+13777 Crow Flat Lake
+13910 Crow Flats
+14029 Cueva Escarpment
+14154 Culebra Bluff
+14269 Dark Canyon Tank
+14398 Dark Canyon Wells
+14523 Deadman Draw
+14680 Delaware Ranch
+14800 Denny Ranch
+14920 Diamond A Ranch
+15041 Diamond Mound
+15163 Dickson Farm
+15278 Dog Canyon Draw
+15439 Dog Canyon Well
+15563 Dog Town Draw
+15723 Donaldson Well
+15838 Double Mills
+15963 Double Tank
+16093 Double Wells Tank
+16231 Dublin Ranch
+16352 Dublin Tank
+16484 Dublin Well
+16602 Eagles Windmill
+16724 East Apple Tank
+16848 East Canal
+16967 East Tank
+17104 East Tank
+17235 East Well
+17352 Eaton Ranch
+17468 Eaton Well
+17581 Elbow Canyon
+17740 Elbow Draw
+17897 Elbow Well
+18022 Esperanza Draw
+18180 Espuela
+18301 Fade Away Ridge
+18426 Fanning Well
+18544 Fence Canyon
+18710 Fenton Draw
+18868 Fenton Ranch
+18993 Flat Tank
+19125 Forehand Ranch
+19240 Forehand West Well
+19369 Forty-Niner Ridge
+19493 Foster Ranch
+19615 Frank Jones Ranch
+19743 Frontier Hills
+19866 Gardner Draw
+20025 Gatuna Canyon
+20188 George Long Draw
+20341 Gerry Smith Ranch
+20468 Goat Corral Canyon
+20640 Golden Eagle Mine
+20766 Grapevine Spring
+20906 Grave Well
+21025 Greenwood Lake
+21164 Greenwood Tank
+21298 Gyp Bend
+21407 Hackberry Canyon
+21571 Hackberry Draw
+21735 Hackberry Draw
+21895 Hackberry Hills
+22018 Hackberry Lake
+22151 Hackberry Slope
+22274 Hackberry Tank
+22401 Hackberry Well
+22519 Happy Valley
+22639 Harkey Double Mills
+22764 Harris Ranch
+22895 Harroun Canal
+23017 Harroun Dam
+23127 Harroun Ditch
+23241 Harroun School
+23358 Hart Canyon
+23515 Hay Hollow
+23675 Henderson Lake
+23808 Henshaw Tank
+23943 Herradura Bend
+24058 High Lonesome Windmill
+24188 Highway Well
+24304 Hill Tank
+24440 Hilt Tank
+24572 Hilt Well
+24692 Hoag Tank
+24824 Hobbs Well
+24944 Hoffman Tank
+25086 Holt Tank
+25215 Hope Community Canal
+25353 Hope South Cemetery
+25476 Hope West Cemetery
+25615 Horner Tank
+25749 Horseshoe Bend
+25871 Howell Ranch
+25993 Hunter Ranch
+26124 Hurston Tank
+26246 Indian Basin
+26367 Indian Big Spring
+26493 Indian Flats
+26611 Indian Well
+26729 International Mineral
+26861 J Bar F Well
+26980 J Staple Canyon
+27141 J X Ranch
+27255 James Ranch
+27375 Jo Bar Tank
+27496 Joe Lusk East Well
+27622 Joe Young Ranch
+27756 John Forehand Ranch
+27881 Jones Canyon
+28040 Jumping Spring
+28176 Juniper Canyon
+28337 Jurnigan Draw
+28504 Jurnigan Spring
+28644 Kee Ranch
+28763 Kee Tank
+28891 Kelly Polk Well
+29016 Kelly Well
+29127 Keyhole Windmill
+29250 King Ranch
+29370 Kitchen Cove
+29490 Klendenen Well
+29612 La Huerta
+29750 Laney Ranch
+29866 Laney Well
+29979 Leck Ranch
+30098 Leck Well
+30215 Lee Ranch
+30334 Light Spring
+30470 Lindsey Lake
+30599 Little AAA Tank
+30734 Little Walt Canyon
+30898 Little Walt Spring
+31035 Little Windmill
+31161 Livingston Canal
+31286 Livingston Ridge
+31415 Loafer Draw
+31573 Loafer Tank
+31696 Loco Hills
+31833 Loco Hills
+31954 Logan Draw
+32110 Lone Tree Draw
+32271 Long Draw
+32427 Longview Spring
+32553 Lookout Point
+32676 Los Medanos
+32794 Lost Tank
+32924 Lovejoy Ranch
+33047 Lower Reed Well
+33173 Lusk Ranch
+33297 Main Canal
+33416 Major Johnson Springs
+33545 Malaga
+33673 Malaga Bend
+33792 Maroon Cliffs
+33918 Martha Creek
+34077 McAshan Ranch
+34192 McBride Tank
+34320 McDonald Cemetery
+34449 McGruder Hill
+34572 McGruder Spring
+34708 McIver North Tank
+34848 McIver Ranch
+34970 McIver Tank
+35104 McKinstry Ranch
+35224 McKittrick Hill
+35347 Mescalero Sands
+35470 Middle Fork Little McKittrick Draw
+35650 Middle Fork Waterhole
+35793 Middle Seven Rivers
+35959 Midnight Canyon
+36123 Miller Tank
+36258 Millman Ranch
+36385 Millman South Well
+36514 Mimosa Ridge
+36639 Mule Tank
+36767 Murray Ranch
+36886 Murray West Well
+37007 Nash Draw
+37166 Nash Well
+37282 Neds Well
+37399 New Tank
+37533 New Tank Draw
+37687 New Well
+37807 New Windmill
+37926 Nimenim Ridge
+38049 North Hackberry Draw
+38212 North Mosley Canyon
+38382 North Prong Long Draw
+38549 North Williams Ranch
+38679 Northwest Well
+38797 Noye Tank
+38933 Oak Spring
+39067 Oil City Well
+39187 Old Ball Well
+39308 Old Indian Draw
+39468 Old Jones Ranch
+39592 Old Ranch Canyon
+39755 One Hundred Ranch
+39876 Onehundred Ranch
+39994 Opuntia Draw
+40153 Otis
+40267 Owl Draw
+40418 Palmilla Draw
+40579 Paris Dainwood Draw
+40739 Parish Ranch
+40861 Parisher Well
+40985 Park School
+41101 Paxton Well
+41222 Pickett Draw
+41381 Pickett Windmill
+41503 Pierce Canyon
+41663 Plowman Ranch
+41779 Poker Lake
+41903 Poker Tank
+42033 Prisoner of War Camp
+42158 Queen Lake
+42279 Queen Ranch
+42396 Queen Well
+42510 Raider Well
+42627 Rain Spring Draw
+42787 Rain Spring Ranch
+42913 Rattlesnake Springs
+43048 Rattlesnake Springs Picnic Area
+43194 Rattlesnake Well
+43322 Red Bluff Draw
+43479 Red Lake
+43607 Red Lake
+43719 Red Tank
+43851 Red Tank Draw
+44011 Reed Ranch
+44134 Reed Ranch
+44247 Reeves Ranch
+44364 Remuda Basin
+44484 Ridge Tank
+44618 Righthand Canyon
+44779 Righthand Well
+44901 Rizado Point
+45022 Roaring Spring
+45155 Robb Spring
+45290 Rock House
+45406 Rock House
+45526 Rock Tank
+45658 Rock Tank
+45791 Rock Windmill
+45916 Rockbottom Tank
+46052 Rocky Arroyo Cemetery
+46184 Rocky Arroyo School
+46312 Roselawn School
+46430 Ross Ranch
+46545 Round Tank
+46678 Round Tank Well
+46801 Rounds Waterhole
+46939 Roy Forehand Ranch
+47063 Runyan Ranch
+47186 Saladar Flat
+47303 Salt Draw
+47452 Salt Draw Well
+47567 Sand Point
+47687 Scanlon Draw
+47840 Schoolhouse Canyon
+48004 Scoggin Flat
+48116 Section Six Well
+48235 Seven Rivers Cemetery
+48366 Seven Rivers Hills
+48492 Shafer Canyon
+48651 Sheep Draw
+48807 Sheep Draw Tank
+48945 Sheep Draw Well
+49068 Sinkhole Flat
+49189 Sixteen Tank
+49333 Sixteenmile Draw
+49486 Smith Ranch
+49607 Smith Waterhole
+49735 South Cemetery
+49867 South Cottonwood Creek
+50031 South Donaldson Well
+50152 South Mosley Canyon
+50322 South Pool Well
+50446 South Prong Long Draw
+50614 South Reed Well
+50730 South Robb Spring
+50871 South Seven Rivers
+51035 South Spencer Draw
+51193 South Tank
+51326 South Well
+51448 South West Well
+51566 Southeast Well
+51684 Southern Canal
+51807 Southern Canal
+51923 Spencer Dam
+52040 Spring Lake
+52167 Stetson Seep
+52303 Stinking Draw
+52462 Strychnine Camp
+52590 Strychnine Draw
+52755 Sun Windmill
+52874 Sweetwater Windmill
+53008 Tamarisk Flat
+53128 Tansill Dam
+53256 Taylor Draw
+53410 Taylor Ross Ranch
+53531 Teel Ranch
+53659 Telltale Bluffs
+53783 Tempe Costa Church
+53904 Thayer Wells
+54025 Thirteen North Lake Well
+54161 Threemile Draw
+54317 Tip Top Wells
+54437 Tomcat Windmill
+54562 Tower Hill
+54686 Truitt Ranch
+54808 Truitt Well
+54927 Tumbleweed Draw
+55088 Tut Wells
+55208 Twin Wells Ranch
+55331 Twin Windmills
+55457 Wadcutter Draw
+55616 Walnut Draw
+55775 Walnut Ranch Well
+55911 Walnut Well
+56022 Walt Canyon
+56178 Walt Canyon Hills
+56303 Walters Lake
+56425 Ward Waterhole
+56565 Washington Spring
+56704 Waterhole Draw
+56864 Welch Ranch
+56988 Weld Tank
+57120 West Tank
+57251 West Well
+57367 West Well
+57485 Wilburn Tank
+57623 Wild Cow Tank
+57759 Wildcat Bluff
+57881 Willar Well
+57995 Williams Hollow
+58120 Williams Sink
+58243 Williams Well
+58367 Willow Draw
+58525 Windham Ranch
+58649 Windy Tank
+58779 Windy Windmill
+58899 Wood Canyon
+59064 Wood Draw
+59220 Wood Ranch
+59343 Woodruff Well
+59471 Yarbro Well
+59586 Yellow Jacket Spring
+59716 Yeso Hills
+59842 Butcher Spring
+59977 Dagger Draw
+60134 Delaware River
+60297 Hope
+60422 Mosley Canyon
+60582 North Fork Hay Hollow
+60752 North Fork Little McKittrick Draw
+60925 North Seven Rivers
+61089 Ocotillo Hills
+61213 Quahada Ridge
+61334 Rustler Breaks
+61452 Salt Lake
+61568 South Fork Hay Hollow
+61737 West Fork Little McKittrick Draw
+61914 North Mosley Spring
+62047 North Rocky Canyon
+62209 CCC Tank Number 1
+62336 CCC Tank Number 2
+62472 North Windfohr and Brown Camp Number 1
+62617 Robinia Draw
+62786 Bat Cave Draw
+62950 CCC Tank
+63071 Chimney Well
+63194 Chinaberry Draw
+63362 Double Canyon Draw
+63534 Flat Lake
+63662 Grapevine Draw
+63830 Grapevine Spring
+63958 Horseshoe Lake
+64082 Jahie Lake
+64211 Kuykendall Draw
+64373 Lassiter Spring
+64498 Lechuguilla Canyon
+64666 Little McKittrick Draw
+64831 Maverick Canyon
+64993 McKittrick Canyon Draw
+65169 Illinois Camp
+65301 Potash Company of America Mine
+65442 Round Mountain
+65565 Slaughter Canyon Draw
+65740 Stallin Well
+65860 Walt Spring
+65990 Yucca Canyon
+66151 Yucca Draw
+66307 Dark Canyon Draw
+66470 Cole Place
+66589 Old Horner Place
+66719 Atoka
+66847 Hunter Place
+66970 Pavo Mesa
+67090 McCollum Ranch
+67213 Black River Storage Tank
+67349 Midwater Spring
+67473 Hughes Ranch
+67593 Dirt Tank
+67714 Hughes Ranch
+67835 West Water Storage Tank
+67971 Road Tank
+68102 Irabarne Water Storage Tank
+68242 Polk Water Storage Tank
+68377 Locklear Water Storage Tank
+68517 Helper Tank
+68651 Bradley Tank
+68786 Game Department Cabin
+68917 Mail Box
+69048 Knee Deep
+69180 Poor House
+69313 Polk Tank
+69445 Andrus and Golf Ranch
+69576 Last Chance Water Storage Tank
+69719 Locklear Tank
+69855 Stone Water Storage Tank
+69992 Avalon
+70117 Barber Crossing
+70249 Black River Village
+70393 Centinela Mound
+70515 Dayton
+70634 Four Forks
+70763 Frontier Post
+70889 Hagerman Heights
+71024 Harkey Crossing
+71154 Harroun Crossing
+71282 Knowles Place
+71414 Lookout Crossing
+71542 Loving
+71669 Nagooltee Peak
+71791 Old Ranch Knoll
+71916 Pierce Canyon Crossing
+72057 Red Bluff
+72181 Ross Place
+72315 San Jose
+72441 Seven Rivers
+72572 Tecolote Peak
+72698 The Tepee
+72817 West Carlsbad
+72949 Whites City
+73093 Adams Bend
+73217 Chalk Bluff Draw
+73387 Chalk Bluff Spring
+73532 Dagger Draw
+73696 Fanning Ranch
+73825 Fourmile Draw
+73991 Greenwood Ranch
+74122 Kaiser Lake
+74247 Lakewood
+74372 Lewis Ranch
+74500 Locklear Canyon
+74662 Lake McMillan
+74793 Pecos River
+74920 Pecos River
+75085 Pecos River
+75249 Scoggin Draw
+75414 Soapberry Draw
+75580 Spencer Draw
+75745 Heard Storage Tank
+75873 Moss Ranch
+75994 Mayes Ranch
+76122 Old Pardue Ranch
+76254 Polk Ranch
+76374 Prickett Tank
+76502 Russell Ranch
+76626 Wooten Ranch
+76749 Tatman Ranch
+76870 X T Ranch
+76990 Thurman Ranch
+77115 White Ranch
+77240 Sims Ranch
+77367 S S Well
+77485 Blue Spring Farm
+77616 Smith Blue Spring Ranch
+77756 Ballard Ranch
+77886 Blue Quail Center
+78008 Callaway Ranch (historical)
+78147 Rock House Crossing
+78274 Willow Creek Ditch
+78428 Colwell Ranch
+78553 Cawley Ranch
+78674 Old C P Ranch
+78804 Circle K Ranch
+78935 Jones Ranch
+79056 Old Stone Place (historical)
+79197 Tucker Ranch (historical)
+79334 Howell Tank (historical)
+79469 Mendoza Ranch (historical)
+79605 Pipkin Ranch (historical)
+79742 Indian Hill
+79861 Farrell Ranch (historical)
+80001 Becker
+80117 Boyd Park
+80234 Buck Tank (historical)
+80368 Boulder Waterhole (historical)
+80506 Boulder Tank
+80629 Abo Shopping Center
+80753 W W Smith and Sons Ranch
+80889 Pipkin Ranch (historical)
+81028 Stone Tank (historical)
+81168 School Section Water Hole
+81304 Smith Ranch
+81425 Ward Ranch (historical)
+81560 Lusk Ranch (historical)
+81695 Old Farrell Place (historical)
+81839 Farrell Ranch
+81964 Fanning Tank (historical)
+82100 Lowe Tank
+82226 Lowe Ranch
+82350 Mexican Lake
+82473 Leeman Ranch
+82596 Lower Tonsill Lake
+82722 Judkins Ranch
+82852 Ewing Place
+82980 Elliot Ranch
+83109 Dillahunty Ranch
+83237 Old Duran Ranch
+83369 Sand Dunes Oil Field
+83502 Living Desert State Park
+83634 Loving Health Clinic
+83758 Carlsbad Medical Center
+83903 Loving High School
+84023 Loving Middle School
+84145 Saint Edwards School
+84275 Victory Christian Academy
+84410 Roy High School
+84526 New Mexico State University - Carlsbad Branch
+84681 Saint Francis Family Medical Center
+84828 Victory Baptist Church
+84970 Standpipe Road Baptist Church
+85119 Saint Peters Evangelical Lutheran Church
+85279 Tres Rios Christian Growth Center
+85438 San Jose Church
+85571 Spanish Assembly of God Church
+85718 Lake Avalon
+85842 Chalk Bluff
+85963 Mc Kitric Spring
+86090 Mississippi Chemical Corporation Potash Mine
+86246 Bottomless Lake Spring
+86385 Twin Boils Spring
+86520 Flat Rock Spring
+86655 Mosley Springs
+86793 Carlsbad Spring Number 5
+86927 Carlsbad Spring Number 16
+87062 Carlsbad Spring Number 3
+87196 Coad Tank
+87312 Able Seep
+87444 Acrey Lake
+87570 Anderson Canyon
+87734 Anderson Tank
+87870 Ares Peak
+87986 Armstrong and Armstrong Ranch
+88123 Azotea Mesa
+88246 Baker Pen Draw
+88409 Bandanna Point
+88535 Bates Windmill
+88656 Bear Canyon
+88817 Beardon Canyon
+88978 Bearup Well
+89090 Big Boy Tank
+89225 Big Canyon Ridge
+89349 Black Canyon
+89521 Black Lake
+89648 Black River
+89799 Black River Spring
+89936 Bogle Flats
+90057 Box Canyon
+90214 Box Shack Well
+90336 Bullis Canyon
+90493 Burleson Well
+90618 Buzzard Canyon
+90783 Calamity Cove
+90946 Callaway Well
+91069 Camp Wilderness Ridge
+91198 Carlsbad Caverns National Park
+91339 Carson Seep
+91463 Cave Canyon
+91621 Cawley Draw
+91778 China Canyon
+91939 Clark Well
+92054 Collier Tank Draw
+92214 Cottonwood Canyon
+92370 Cottonwood Well
+92486 Cowboy Tank
+92613 Crooked Canyon
+92771 Crooked Creek
+92929 Dark Canyon
+93087 Dark Canyon Well
+93215 Deer Canyon
+93377 Deer Hill
+93495 Devils Den Canyon
+93658 Devils Den Spring
+93793 Dinner Hill
+93907 Double Canyon
+94067 Double Trail
+94191 Dunnaway Canyon
+94355 Dunnaway Draw
+94515 Dunnaway Tank
+94648 East Hess Hills
+94774 East Well
+94884 Effendale Tank
+95020 El Paso Gap
+95137 El Paso Gap Church
+95264 El Paso Ridge
+95385 Fanning Draw
+95542 Fawn Valley
+95704 Fir Canyon
+95860 Four Wells
+95991 Franks Canyon
+96154 Franks Spring
+96290 Gail Tank
+96420 Gilson Canyon
+96581 Gilson Spring
+96707 Goat Canyon
+96868 Goat Canyon
+97024 Golden Stairway Trail
+97157 Gordon Tank
+97291 Gravel Tank
+97428 Guadalupe Church Camp
+97552 Guadalupe Mine
+97673 Guadalupe Ridge
+97801 Gunsight Canyon
+97965 H Bar Y Ranch
+98090 Hamilton Well
+98204 Hamm Draw
+98359 Hamm Tank
+98491 Hamm Well
+98608 Hammond Spring
+98746 Hat Bar Well
+98870 Hatchet Spring
+99003 Helton Creek
+99165 Helton Tank
+99302 Hess Spring
+99436 Hess Well
+99557 Hidden Seep
+99691 Hog Spring
+99820 Hog Spring Canyon
+99983 Holt Tank Draw
+100141 Hooper Canyon
+100294 Horse Canyon
+100446 Horse Spring
+100561 Horse Well
+100672 Huapache Canyon
+100827 Hughes Ranch
+100948 Indian Creek
+101104 Irabarne Tank
+101240 J D Well
+101360 JRC Canyon
+101516 Jackson Tank
+101650 Johnson Canyon
+101812 Johnson Tank
+101951 Juniper Lake
+102074 Juniper Well
+102187 Kellar Lake
+102309 Keller Tank
+102443 Kirkland Canyon
+102598 Kirkland Seep
+102724 Kite Windmill
+102840 Klondike Gap
+102958 Kuykendal Tank
+103094 Larrimore Tank
+103229 Last Chance Canyon
+103393 Lechuguilla Canyon
+103562 Lechuguilla Spring
+103704 Lefthook Canyon
+103869 Little Box Canyon
+104037 Lonesome Ridge
+104163 Lookout Draw
+104322 Lowe Spring
+104457 Lower John Well
+104582 Middle Fork Big Canyon
+104753 Middle Rocky Arroyo
+104916 Middle Slaughter Canyon
+105089 Middleton Storage Tank
+105223 Miller Ranch
+105344 Munson Reservation
+105474 North Fork Big Canyon
+105645 North Kuykendall Draw
+105813 North McKittrick Canyon
+105985 North Rattlesnake Canyon
+106160 North Rocky Arroyo
+106322 North Slaughter Canyon
+106493 North Texas Hill Canyon
+106661 Nuevo Canyon
+106826 Open Hollow Gulch
+106993 Pacific Slope
+107118 Pats Lake
+107238 Payne Canyon
+107386 Pickett Hill
+107508 Pickett Tanks
+107644 Pierce Canyon
+107800 Pine Canyon
+107954 Pipkin Well
+108074 Powers Ridge
+108192 Powers Ridge Tank
+108328 Prairie Dog Tank
+108466 Priestly Tank
+108595 Putman Cabin
+108710 Putman Canyon
+108874 Queen
+108991 Queen Cemetery
+109110 Rattlesnake Canyon
+109282 Rawhide Canyon
+109436 Red Bluff Canyon
+109600 Red Bluff Draw
+109763 Red Lake
+109882 Red Tank
+110011 Reed Tank
+110135 Roberts Canyon
+110297 Roberts Tanks
+110430 Robinson Draw
+110583 Rock Bottom Well
+110710 Rock Tank
+110835 Rock Waterhole Canyon
+111002 Rocky Arroyo
+111166 Sacahuiste Draw
+111327 Sandrock Canyon
+111488 Seco Canyon
+111644 Seco Tank
+111774 Segrest Draw
+111933 Segrest Waterhole
+112071 Serpentine Bends
+112199 Shattuck Well
+112320 Shattuck West Tank
+112460 Sitting Bull Canyon
+112628 Sitting Bull Falls
+112758 Sitting Bull Recreation Area
+112887 Sitting Bull Spring
+113019 Soldier Spring
+113151 Soldier Well
+113270 Sotol Basin
+113392 South Hackberry Draw
+113555 South Kuykendall Draw
+113722 South Rattlesnake Canyon
+113897 South Texas Hill Canyon
+114063 Spring Canyon
+114226 Stone Canyon
+114384 Stone Canyon
+114541 Stone Canyon
+114699 Stone Spring
+114835 Sunshine Tank
+114959 Taylor Tank
+115085 Texas Deep Well
+115208 Texas Hill
+115326 Texas Hill Lake
+115457 Thayer Hill
+115571 Thayer Well
+115690 The Bowl
+115810 The Lake
+115928 Three Forks
+116054 Thurman Draw
+116215 Thurman Tanks
+116353 Tin Henry Well
+116478 Tin Tank
+116597 Toms Canyon
+116753 Trail Canyon
+116913 Trimble Canyon
+117076 Turkey Canyon
+117229 Turkey Spring
+117366 Turkey Well
+117478 Ussery Trail
+117602 Wagontire Draw
+117765 Walker Draw
+117924 Walnut Canyon
+118091 Watkins Tank
+118219 Weldy Canyon
+118380 Weldy Well
+118500 West Hess Hills
+118628 West Slaughter Canyon
+118797 White Mule Ridge
+118921 White Oaks Canyon
+119087 White Oaks Spring
+119217 Wild Cow Mesa
+119343 Wildcat Draw
+119501 Wilson Canyon
+119659 Wilson Tank
+119790 X Bar Ranch
+119915 XT Draw
+120071 XT Spring
+120203 Youse Well
+120325 Hearn
+120450 Acrey Water Storage Tank
+120584 Lawyer Dirt Tank
+120720 B-Storage Tank
+120844 Rawhide Water Storage Tank
+120980 Foster Water Storage Tank
+121115 Black Water Storage Tank
+121249 Spring Seep
+121383 Aqua Dulce Seep
+121521 Dark Canyon Lookout Tower
+121658 Old Helper Ranch
+121787 Line Water Storage Tank
+121925 Tule Lake
+122054 Tule Well
+122172 Geyser Springs
+122308 Lancaster Spring
+122445 Mc Kitric Spring
+122581 Amax Chemical
+122703 Hobbs Potash Facility
+122833 Missisippi Chemical Mine
+122969 Duval Corporation Wills-Weaver
+123109 Duval Corporation Saunders Mine
+123252 Eddy County Pits
+123375 El Paso Gap
+123494 IMCC Plant
+123615 Lone Eagle
+123734 Townsite Salt
+123855 Lepee Claims
+123974 Potash Company of America
+124109 National Potash Company Eddy Mine
+124254 International Minerals and Chemical
+124400 Carlsbad Pit
+124519 IMCC Mine
+124638 Little Walt Canyon
+124763 Mississippi Chemical Mine
+124899 PCA Mine
+125018 Rocky Arroyo
+125137 Salt Lake Mine
+125258 Salt Lake Mine
+125382 Nash Draw
+125498 Duval Corporation North Mine
+125637 Getty Shaft
+125760 Indian Basin Plant
+125886 Flotation Plant
+126002 Nash Draw Mine
+126123 PCA Loading Mine
+126250 Rose Gravel Co Plant
+126378 Salt Supply Company
+126508 Hecla-Day Potash Lease
+126637 Amax Potash Refinery
+126766 Hobbs Potash Facility Refinery
+126905 Rose Pit
+127020 Constructors Pit Incorporated Crusher
+127165 Eddy County Pits
+127289 Artesia City Dump Pit
+127413 Sweatt Pit
+127524 Old Wallace Smith
+127656 Hodges Potash Property
+127785 Anna B Byrd
+127910 New Mexico Salt Company
+128041 Sherrell Pit
+128155 10182 Water Well
+128279 71091 Water Well
+128403 Kingdom Hall
+128520 Trinity Church
+128639 Potters House Full Gospel
+128774 Omega Christian Fellowship Church
+128917 Gethsemane Methodist Church
+129049 Immanuel Lutheran Church
+129178 Christian Science Society Church
+129315 Church of Christ
+129436 First Church of the Nazarene
+129569 Victory Mission Church
+129696 The Church of Latter Day Saints
+129832 Church of the Nazarene
+129964 Church of Christ
+130090 First Presbyterian Church
+130220 Saint Pauls Episcopal Church
+130353 Our Lady of Grace Parish
+130482 Spring Number Eleven
+130613 Hagerman/Lake Arthur United Methodist Church
+130762 First Baptist Church
+130884 Lakewood Baptist Church
+131024 Hillview Baptist Church
+131157 Hermosa Drive Baptist Church
+131290 Bethal Baptist Church
+131416 Primitive Baptist Church
+131545 Calvary Baptist Church
+131672 Artesia Plant
+131788 Westside Church of Christ
+131918 United Pentecostal Church
+132048 Ranch Acres Baptist Church
+132184 Calvary Assembly of God Church
+132324 Faith Baptist Church
+132449 Primera Iglesia Bautista
+132578 West Main Baptist Church
+132707 Primera Iglesia Bautista
+132841 First Baptist Church
+132969 First Assembly of God Church
+133099 Rio Penasco
+133264 Black River Water Storage
+133401 CCC Tank
+133541 Dutch Tank
+133683 Eagle Creek
+133840 Eagle Tanks
+133973 Goaty Canyon
+134127 Hackberry Draw
+134297 Johnson Ditch
+134428 Johnson Draw
+134582 Long Draw
+134733 McAshan Ranch
+134865 Nester Well
+134995 North Cottonwood Creek
+135159 Well Canyon
+135311 Municipal Tansill Lake Dam
+135435 Municipal Lake
+135553 Avalon Dam
+135670 McMillan Dam
+135795 Harroun Lake Dam
+135910 Harroun Diversion Dam
+136041 Lower Transill Dam
+136176 Lower Transill Reservoir
+136313 Six Mile Dam
+136442 Willow Lake Dam
+136557 Willow Lake
+136684 O'Bannon Dam
+136798 Cass Draw Site Number One Dam
+136925 Cass Draw Site Number Two Dam
+137052 Hackberry Draw Site Number One Dam
+137193 Hackberry Draw Watershed Site Number Two Dam
+137345 Mississippi Chem Corp Tailings Pond Dam
+137491 SE Storm Drainage Detention Dam
+137624 Sandia
+137738 Sitting Bull Falls Point of Interest
+137875 The Pinnacle
+137990 First Methodist Episcopal Church South
+138138 Saint Pauls Episcopal Church
+138270 City Water Works
+138393 Methodist Episcopal Church
+138524 Brantley Lake State Park
+138661 Saint Anthony Roman Catholic Church
+138801 The Artesia Hotel (historical)
+138938 Artesia Light and Power Company (historical)
+139089 Aid Oil Field
+139210 Anderson Oil Field
+139339 Artesia Country Club
+139464 Artesia Oil Field
+139589 Daugherty Oil Field
+139719 Empire Oil Field
+139842 Forrest Oil Field
+139970 Fren Oil Field
+140094 Greyburg Jackson Oil Field
+140230 Greyburg Maljamar Oil Field
+140368 Guadalupe Administrative Site
+140500 Henshaw Oil Field
+140629 Loco Hills Gasoline Plant
+140763 Loco Hills Landing Field
+140896 Loco Hills Oil Field
+141026 Logan Draw Oil Field
+141157 North Mason Oil Field
+141295 North Shugart Oil Field
+141426 North Square Lake Oil Field
+141565 Premier Oil Field
+141692 Red Lake Oil Field
+141818 South High Lonesome Oil Field
+141958 Square Lake Oil Field
+142089 Unite State Potash Reserve
+142230 United States Potash Company Refinery
+142370 Vandergriff Keys Gas Field
+142504 West Henshaw Oil Field
+142638 Castle Spring
+142767 Cavern City Dragway
+142885 Eddy County Fairgrounds
+143013 Goaty Canyon
+143177 First Christian Church
+143303 Azotea Peak
+143422 First Methodist Church South
+143554 Duval Mine
+143670 Pecos Valley Railroad Depot
+143804 George Draw
+143957 New Mexico State University Experimental Station
+144110 Fadeaway Ridge
+144234 Forty Niner Ridge
+144359 Willow lake
+144478 Riverside
+144605 Los Medanos
+144722 Round Mountain
+144844 KBPM-La Huerta (Los Alamos)
+144980 Greybug Maljamar Oil Field
+145117 Gettysburg
+145241 North Mesa Medical and Dental Group Library
+145396 Carlsbad Public Library
+145531 Artesia General Hospital Library
+145670 Guadalupe Medical Center Library
+145814 Westinghouse Electric Corporation WIPP Library
+145972 Kirkendell Draw
+146134 05065 Water Well
+146253 10405 Water Well
+146372 06070 Water Well
+146491 Carlsbad Municipal Fine Arts Center and Museum
+146649 Artesia Historical Museum and Art Center
+146796 Artesia Water Works Pumping Station (historical)
+146951 Boy D S Waterhole
+147080 Western College Methodist Episcopal Church South (historical)
+147246 City Park
+147358 Church of the Nazarene
+147485 06016 Water Well
+147604 06015 Water Well
+147723 06013 Water Well
+147842 05049 Water Well
+147961 05048 Water Well
+148080 05055 Water Well
+148197 06000 Water Well
+148316 08075 Water Well
+148435 06020 Water Well
+148554 06002 Water Well
+148673 06043 Water Well
+148792 05057 Water Well
+148911 06022 Water Well
+149030 05056 Water Well
+149149 05054 Water Well
+149268 06203 Water Well
+149386 06206 Water Well
+149505 06052 Water Well
+149624 06045 Water Well
+149743 05031 Water Well
+149862 71070 Water Well
+149981 06038 Water Well
+150100 10088 Water Well
+150218 71072 Water Well
+150336 10404 Water Well
+150455 05063 Water Well
+150574 06055 Water Well
+150693 06054 Water Well
+150812 05061 Water Well
+150931 06048 Water Well
+151050 71063 Water Well
+151169 06063 Water Well
+151288 10068 Water Well
+151407 06005 Water Well
+151526 10092 Water Well
+151644 06073 Water Well
+151763 06064 Water Well
+151882 10090 Water Well
+152001 06006 Water Well
+152120 05032 Water Well
+152239 10066 Water Well
+152358 06072 Water Well
+152477 06071 Water Well
+152596 10067 Water Well
+152715 06415 Water Well
+152834 06058 Water Well
+152952 06057 Water Well
+153070 06062 Water Well
+153188 06049 Water Well
+153307 06046 Water Well
+153425 05062 Water Well
+153544 06047 Water Well
+153663 05064 Water Well
+153781 06039 Water Well
+153900 71071 Water Well
+154019 06004 Water Well
+154138 06035 Water Well
+154257 06050 Water Well
+154376 71107 Water Well
+154494 71106 Water Well
+154613 05058 Water Well
+154732 06042 Water Well
+154851 06051 Water Well
+154970 06044 Water Well
+155089 06003 Water Well
+155208 05051 Water Well
+155327 06014 Water Well
+155446 10065 Water Well
+155565 71110 Water Well
+155684 10078 Water Well
+155802 06001 Water Well
+155921 06017 Water Well
+156040 05053 Water Well
+156159 05052 Water Well
+156278 71061 Water Well
+156397 10077 Water Well
+156516 06019 Water Well
+156635 06416 Water Well
+156754 10064 Water Well
+156873 Madison Hotel (historical)
+157006 Christian Church
+157126 Western College Methodist Epsicopal Church South (historical)
+157292 Hardwick Hotel
+157413 10268 Water Well
+157536 10267 Water Well
+157660 10261 Water Well
+157784 10260 Water Well
+157908 10257 Water Well
+158032 10411 Water Well
+158153 10235 Water Well
+158277 10238 Water Well
+158401 10216 Water Well
+158525 10232 Water Well
+158649 10227 Water Well
+158773 10231 Water Well
+158897 10210 Water Well
+159020 10228 Water Well
+159144 10226 Water Well
+159268 10224 Water Well
+159391 10412 Water Well
+159515 10410 Water Well
+159638 10202 Water Well
+159762 10205 Water Well
+159886 10206 Water Well
+160008 10198 Water Well
+160131 10199 Water Well
+160254 10197 Water Well
+160378 10207 Water Well
+160502 10196 Water Well
+160626 10585 Water Well
+160752 20139 Water Well
+160878 20138 Water Well
+161004 06680 Water Well
+161126 20096 Water Well
+161252 20141 Water Well
+161377 20147 Water Well
+161502 06669 Water Well
+161625 05123 Water Well
+161748 20003 Water Well
+161871 06685 Water Well
+161997 20100 Water Well
+162123 20101 Water Well
+162248 20102 Water Well
+162374 20056 Water Well
+162505 07050 Water Well
+162624 07037 Water Well
+162750 07036 Water Well
+162873 20097 Water Well
+162999 20054 Water Well
+163130 20058 Water Well
+163260 07048 Water Well
+163381 07039 Water Well
+163511 20057 Water Well
+163629 06613 Water Well
+163760 20070 Water Well
+163891 06626 Water Well
+164011 06641 Water Well
+164132 20079 Water Well
+164252 06634 Water Well
+164372 06633 Water Well
+164492 06615 Water Well
+164623 06619 Water Well
+164743 05121 Water Well
+164862 20093 Water Well
+164982 Lookout (historical)
+165114 Old Lakewood Cemetery
+165254 New Mexico State University at Carlsbad Library
+165413 10191 Water Well
+165537 10190 Water Well
+165660 10189 Water Well
+165784 10204 Water Well
+165908 10194 Water Well
+166032 10192 Water Well
+166155 10200 Water Well
+166279 Artesia Historical Marker
+166407 Espejos Trail Historical Marker
+166539 Carlsbad Caverns Weather Station
+166684 Lake Avalon Weather Station
+166821 Hope Weather Station
+166943 Artesia Weather Station
+167071 Carlsbad Weather Station
+167205 Loving Weather Station
+167329 06069 Water Well
+167448 06068 Water Well
+167567 06100 Water Well
+167686 06105 Water Well
+167804 05034 Water Well
+167923 06104 Water Well
+168042 06067 Water Well
+168161 06095 Water Well
+168280 06096 Water Well
+168399 06087 Water Well
+168518 06092 Water Well
+168637 06098 Water Well
+168756 06088 Water Well
+168875 06418 Water Well
+168994 06097 Water Well
+169113 06101 Water Well
+169231 06102 Water Well
+169350 10104 Water Well
+169469 06111 Water Well
+169588 71103 Water Well
+169707 06117 Water Well
+169826 71076 Water Well
+169945 06114 Water Well
+170063 06118 Water Well
+170181 05036 Water Well
+170299 71066 Water Well
+170417 71075 Water Well
+170535 06138 Water Well
+170654 06137 Water Well
+170773 10117 Water Well
+170892 71035 Water Well
+171011 06121 Water Well
+171130 10467 Water Well
+171249 10465 Water Well
+171367 06130 Water Well
+171486 06141 Water Well
+171605 06425 Water Well
+171724 06155 Water Well
+171843 06136 Water Well
+171962 06134 Water Well
+172081 71036 Water Well
+172199 10120 Water Well
+172318 10112 Water Well
+172436 10122 Water Well
+172555 06146 Water Well
+172673 10454 Water Well
+172792 05076 Water Well
+172909 06154 Water Well
+173028 71119 Water Well
+173147 06145 Water Well
+173266 06424 Water Well
+173385 06159 Water Well
+173504 05073 Water Well
+173623 05081 Water Well
+173742 71040 Water Well
+173861 06151 Water Well
+173980 06149 Water Well
+174099 10147 Water Well
+174224 RA-7804 Water Well
+174351 10108 Water Well
+174476 10128 Water Well
+174595 06426 Water Well
+174714 06436 Water Well
+174835 06435 Water Well
+174957 06434 Water Well
+175078 12179 Water Well
+175200 12178 Water Well
+175322 06705 Water Well
+175443 06706 Water Well
+175563 06708 Water Well
+175684 06442 Water Well
+175805 06443 Water Well
+175926 20031 Water Well
+176049 20028 Water Well
+176172 06741 Water Well
+176295 06742 Water Well
+176418 06743 Water Well
+176541 06734 Water Well
+176664 06736 Water Well
+176787 20033 Water Well
+176909 06735 Water Well
+177031 06733 Water Well
+177154 20153 Water Well
+177277 20154 Water Well
+177400 20143 Water Well
+177523 20150 Water Well
+177646 20151 Water Well
+177769 06748 Water Well
+177892 20034 Water Well
+178015 06732 Water Well
+178138 06731 Water Well
+178261 06746 Water Well
+178384 06745 Water Well
+178507 06744 Water Well
+178630 06740 Water Well
+178753 06707 Water Well
+178875 06704 Water Well
+178996 06703 Water Well
+179117 00817 Water Well
+179238 06441 Water Well
+179359 06439 Water Well
+179480 06440 Water Well
+179601 06437 Water Well
+179722 06438 Water Well
+179843 06169 Water Well
+179962 71041 Water Well
+180081 06168 Water Well
+180200 06123 Water Well
+180319 05083 Water Well
+180438 06167 Water Well
+180556 06173 Water Well
+180675 06148 Water Well
+180794 06160 Water Well
+180913 71120 Water Well
+181032 06144 Water Well
+181151 71126 Water Well
+181270 06158 Water Well
+181389 06150 Water Well
+181507 05127 WAter Well
+181625 05075 Water Well
+181744 06152 Water Well
+181863 05077 Water Well
+181982 06156 Water Well
+182101 10118 Water Well
+182220 10119 Water Well
+182339 06131 Water Well
+182458 06135 Water Well
+182577 06140 Water Well
+182695 71121 Water Well
+182814 06132 Water Well
+182933 10116 Water Well
+183050 06143 Water Well
+183169 06119 Water Well
+183286 06110 Water Well
+183405 06419 Water Well
+183524 RA-1723 Water Well
+183644 06120 Water Well
+183762 06108 Water Well
+183881 10102 Water Well
+184000 06112 Water Well
+184119 10103 Water Well
+184237 06109 Water Well
+184356 06116 Water Well
+184475 71104 Water Well
+184594 06113 Water Well
+184713 06103 Water Well
+184832 06008 Water Well
+184951 05070 Water Well
+185070 06107 Water Well
+185189 06094 Water Well
+185307 10099 Water Well
+185426 06106 Water Well
+185545 10101 Water Well
+185663 71065 Water Well
+185782 06091 Water Well
+185900 06090 Water Well
+186019 06066 Water Well
+186137 06007 Water Well
+186254 05035 Water Well
+186373 05033 Water Well
+186492 71064 Water Well
+186611 06061 Water Well
+186730 06065 Water Well
+186849 10094 Water Well
+186967 10091 Water Well
+187084 06059 Water Well
+187201 08035 Water Well
+187321 20094 Water Well
+187441 08040 Water Well
+187571 08039 Water Well
+187701 08033 Water Well
+187821 20082 Water Well
+187941 20081 Water Well
+188061 06620 Water Well
+188181 20080 Water Well
+188300 20075 Water Well
+188420 06614 Water Well
+188551 06618 Water Well
+188682 10477 Water Well
+188809 07049 Water Well
+188930 20074 Water Well
+189050 07051 Water Well
+189171 20059 Water Well
+189301 10471 Water Well
+189430 10301 Water Well
+189560 20060 Water Well
+189679 20020 Water Well
+189800 07046 Water Well
+189921 20016 Water Well
+190046 20103 Water Well
+190172 08607 Water Well
+190295 05116 Water Well
+190418 20098 Water Well
+190544 20099 Water Well
+190670 20002 Water Well
+190793 07011 Water Well
+190919 20146 Water Well
+191045 06681 Water Well
+191168 06682 Water Well
+191290 12578 Water Well
+191418 07006 Water Well
+191546 07007 Water Well
+191674 11575 Water Well
+191799 Lovings Bend Park
+191916 Carlsbad Historical Marker
+192050 Guadalupe Mountains Historical Marker
+192192 Goodnight-Loving Trail Historical Marker
+192332 Baldridge Canyon
+192494 Texas Hill Camp
+192616 Empire ABO Sulphur Plant
+192746 Hodges-Runyan-Brainard House Historic Site
+192895 Flynn-Welch-Yates Number Three Oil Well Historic Site
+193053 William Baskin House Historic Site
+193194 Eddy National Bank Historic Site
+193338 Baskin Building Historic Site
+193474 Eddy and Bissell Livestock Company Headquarters Historic Site
+193647 John Acord House Historic Site
+193784 Eddy County Courthouse Historic Site
+193932 Eddy Hall
+194054 Edward R Gasler House Historic Site
+194196 J J Hagerman House Historic Site
+194340 Hodges-Sipple House Historic Site
+194480 Lake Arthur High School
+194611 Lake Arthur Elementary School
+194748 Loving Elementary School
+194874 Artesia General Hospital
+195015 Lake Arthur Middle School
+195148 Yucca Elementary School
+195276 Abo Elementary School
+195402 Central Elementary School
+195532 Grand Heights Early Childhood Center
+195673 Hermosa Elementary School
+195803 Roselawn Elementary School
+195934 Zia intermediate School
+196062 Park Junior High School
+196190 Artesia High School
+196314 Eddy Elementary School
+196446 Edison Kindergarten Center
+196582 Hillcrest Elementary School
+196719 Monterrey Elementary School
+196856 Pate Elementary School
+196988 Puckett Elementary School
+197123 Riverside Elementary School
+197260 Joe Stanley Smith School
+197394 Sunset Elementary School
+197528 Alta Vista Middle School
+197662 Eisenhower Middle School
+197796 Carlsbad High School
+197926 Alternative School Program
+198062 Walter Craft AWARE Program School
+198205 CARC Farm School
+198331 Guadalupe Escarpment Wilderness Study Area
+198484 Rattlesnake Springs Historic District
+198635 Robert-Sallie Chisum House Historic Site
+198782 Moore-Ward Cobblestone House Historic Site
+198931 Doctor Robert M Ross House Historic Site
+199078 Sipple-Ward Building Historic Site
+199219 Potash Bullwheel Historic Site
+199351 Painted Grotto
+199479 Mauldin-Hall House
+199604 Carlsbad Reclamation Project
+199742 Phoenix Adobe
+199865 Mudgetts Wilderness Study Area
+200007 McKittrick Canyon Wilderness Study Area
+200153 Lonesome Ridge Wilderness Study Area
+200300 Popes Wells Site
+200426 Hollan Tank
+200558 Owens Tank
+200690 Shattuck Valley
+200848 Magby Ranch
+200968 Big Seep Tank
+201104 Brushy Draw
+201259 Cockleberry Tank
+201398 Gyp Windmill
+201520 Lone Tree Tank
+201657 New Tank
+201788 Park Tank
+201909 Phantom Banks
+202030 Steeple Ranch
+202153 Target Windmill
+202279 Tucker Draw
+202434 Eddy County
+202562 07057 Water Well
+202687 08042 Water Well
+202809 08043 Water Well
+202933 08041 Water Well
+203057 Artesia Municipal Airport
+203197 Pay Jay Number 1 Heliport
+203328 Pay Jay Number 2 Heliport
+203459 2 X 4 Ranch Airport
+203594 Cavern City Air Terminal
+203734 Seven Rivers Airport
+203875 Carlsbad Cavern Airpark
+204015 Kuydendall Draw
+204177 Lakewood Post Office
+204319 Otis Post Office (historical)
+204454 Seven Rivers Post Office (historical)
+204606 Queen Post Office (historical)
+204744 Dayton Post Office (historical)
+204884 Carlsbad Post Office
+205019 Artesia Post Office
+205148 Whites City Post Office
+205290 Malaga Post Office
+205416 Hope Post Office
+205539 El Paso Gap Post Office (historical)
+205689 Loving Post Office
+205814 Loco Hills Post Office
+205949 Artesia Public Library
+206078 Lookout Cemetery
+206199 KSVP-AM (Artesia)
+206320 KCCC-AM (Carlsbad)
+206447 KATK-AM (Carlsbad)
+206574 KAMQ-AM (Carlsbad)
+206701 KTZA-FM (Artesia)
+206823 KCDY-FM (Carlsbad)
+206954 KATK-FM (Carlsbad)
+207081 KVIO-TV (Carlsbad)
+207204 KDIR-TV (Carlsbad)
+207331 Doctor E M Smith Elementary School
+207475 P R Leyva Junior High School
+207613 PCA Plant Mine
+207738 Willie D Atkeson House
+207867 Artesia Division
+207998 Carlsbad Division
+208136 Loco Hills Division
+208280 Loving Division
+208415 South Seep
+208539 JRC Spring
+208659 Upper McKittrick Canyon Research Natural Area
+208812 Corriente Cattle Company
+208940 Putman Water Well
+209070 North Well
+209189 National Ranch
+209311 Sitting Bull Communication Facility
+209458 Cottonwood Storage Tank
+209588 Hamm Storage Tank
+209719 Kite Windmill Storage Tank
+209852 Middleton Well
+209974 Carlsbad Caverns Wilderness
+210115 Carlsbad Army Air Field (historical)
+210273 La Huerta Census Designated Place
+210425 City of Artesia
+210542 City of Carlsbad
+210666 Village of Hope
+210780 Village of Loving
+210898 Millman Well
+211023 Atoka Census Designated Place
+211156 Happy Valley Census Designated Place
+211302 Livingston Wheeler Census Designated Place
+211454 Loco Hills Census Designated Place
+211596 Malaga Census Designated Place
+211729 Morningside Census Designated Place
+211869 Whites City Census Designated Place
+212021 Natural Bridge
+212146 Artesia Fire and Emergency Medical Services
+212296 Loving Volunteer Fire Department and Emergency Medical Services
+212463 Carlsbad Fire Department Station 1
+212608 Happy Valley Volunteer Fire Department
+212758 Queen Volunteer Fire Department
+212895 Loco Hills Volunteer Fire Department
+213042 Care Plus Ambulance
+213174 Happy Valley Fire Department Station 1
+213325 Whites City Volunteer Fire Department Station 2
+213492 Malaga Volunteer Fire and Rescue
+213630 La Huerta Fire Department Station 1
+213778 Hope Volunteer Fire Department
+213913 Cottonwood Volunteer Fire Department Station 1
+214067 Riverside Volunteer Fire Department
+214213 Otis Volunteer Fire Department Station 1
+214357 La Huerta Volunteer Fire Department Station 2
+214515 Carlsbad Fire Department Station 6
+214661 Atoka Volunteer Fire Department Atoka Road
+214810 Carlsbad Fire Department Station 5
+214957 Carlsbad Fire Department Station 4
+215095 Sun Country Volunteer Fire Department Station 1
+215250 Joel Volunteer Fire Department
+215384 Atoka Volunteer Fire Department
+215522 Artesia Fire and Emergency Medical Services Substation
+215683 Whites City Volunteer Fire Department Station 1
+215847 Sun Country Volunteer Fire Department Station 2
+216002 Carlsbad Fire Department Station 3
+216149 Carlsbad Fire Department Station 2
+216296 Joel Volunteer Fire Department Station 2
+216440 Cottonwood Volunteer Fire Department Station 2
+216594 Joel Volunteer Fire Department Station 3
+216737 Otis Volunteer Fire Department Ambulance Station 2
+

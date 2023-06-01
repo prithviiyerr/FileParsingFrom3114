@@ -1,0 +1,74 @@
+[ 0] RefOffsets.txt contains the following records:
+[ 0] 
+[10]      265   Cawley Ranch
+[ 7]      386   Catclaw Draw
+[ 7]      546   Gilson Spring
+[ 7]      672   06159 Water Well
+[ 7]      791   Henshaw Tank
+[ 7]      926   Jones Ranch
+[ 7]     1047   06439 Water Well
+[ 7]     1168   Moore-Ward Cobblestone House Historic Site
+[ 7]     1317   Lonesome Ridge
+[ 7]     1443   Omega Christian Fellowship Church
+[ 7]     1586   Middle Fork Waterhole
+[ 7]     1729   Forehand Ranch
+[ 7]     1844   06138 Water Well
+[ 7]     1963   South Pool Well
+[ 7]     2087   Munson Reservation
+[ 7]     2217   Weld Tank
+[ 7]     2349   Tut Wells
+[ 7]     2469   71035 Water Well
+[ 7]     2588   First Methodist Episcopal Church South
+[ 7]     2736   Joe Young Ranch
+[ 7]     2870   Deadman Draw
+[ 7]     3027   X T Ranch
+[ 7]     3147   First Christian Church
+[ 7]     3273   Azotea Peak
+[ 7]     3392   Murray Ranch
+[ 7]     3511   Ross Place
+[ 7]     3645   05127 WAter Well
+[ 7]     3763   Gyp Windmill
+[ 7]     3885   Putman Cabin
+[ 7]     4000   Elliot Ranch
+[ 7]     4129   Cedar Breaks
+[ 7]     4248   10405 Water Well
+[ 7]     4367   Mississippi Chem Corp Tailings Pond Dam
+[ 7]     4513   Missisippi Chemical Mine
+[ 7]     4649   Pickett Hill
+[ 7]     4771   Guadalupe Church Camp
+[ 7]     4895   Herradura Bend
+[ 7]     5010   Municipal Tansill Lake Dam
+[ 7]     5134   Franks Canyon
+[ 7]     5297   Horner Tank
+[ 7]     5431   Hackberry Well
+[ 7]     5549   Hackberry Draw
+[ 7]     5719   10189 Water Well
+[ 7]     5843   McKinstry Ranch
+[ 7]     5963   Goaty Canyon
+[ 7]     6117   Bogle Flats
+[ 7]     6238   City of Carlsbad
+[ 7]     6362   Castle Spring
+[ 7]     6491   High Lonesome Windmill
+[ 7]     6621   10196 Water Well
+[ 7]     6745   Deer Hill
+[ 7]     6863   Loving Middle School
+[ 7]     6985   06633 Water Well
+[ 7]     7105   Carlsbad Pit
+[ 7]     7224   J J Hagerman House Historic Site
+[ 7]     7368   Saint Edwards School
+[ 7]     7498   Windy Windmill
+[ 7]     7618   Epworth United Methodist Church
+[ 7]     7725   Church of God--Hillcrest
+[ 7]     7825   Hillcrest Baptist Church
+[ 7]     7925   Grace Outreach Church
+[ 7]     8022   Carlsbad Mennonite Church
+[ 7]     8123   Rice Memorial CME Church
+[ 7]     8223   Florence Post Office (historical)
+[ 7]     8337   Mount Olive Baptist Church
+[ 7]     8439   Trailsend Post Office (historical)
+[ 7]     8554   Gospel Assembly
+[ 7]     8645   Blodgett Street Baptist Church
+[ 7]     8751   First Christian Church
+[ 7]     8849   Hillcrest United Methodist Church
+[ 7]     8958   Saint Edwards Catholic Church
+[ 0] 

@@ -1,0 +1,50 @@
+[ 0] 1: show_longitude  	5297
+[40]    104d 33m 55s West
+[ 0] 2: show_elevation  	3273
+[40]    4157
+[ 0] 3: show_name  	672
+[40]    06159 Water Well
+[ 0] 4: show_latitude  	386
+[40]    32d 40m 44s North
+[ 0] 5: show_latitude  	8958
+[40]    Coordinate is not given
+[ 0] 6: show_longitude  	8958
+[40]    Coordinate is not given
+[ 0] 7: show_latitude  	546
+[40]    32d 14m 9s North
+[ 0] 8: show_elevation  	8751
+[40]    Elevation is not given
+[ 0] 9: show_name  	7224
+[40]    J J Hagerman House Historic Site
+[ 0] 10: show_latitude  	3763
+[40]    32d 1m 24s North
+[ 0] 11: show_longitude  	4248
+[40]    104d 23m 27s West
+[ 0] 12: show_latitude  	7725
+[40]    Coordinate is not given
+[ 0] 13: show_latitude  	6621
+[40]    32d 27m 36s North
+[ 0] 14: show_name  	8439
+[40]    Trailsend Post Office (historical)
+[ 0] 15: show_latitude  	5719
+[40]    32d 28m 6s North
+[ 0] 16: show_elevation  	4771
+[40]    5764
+[ 0] 17: show_elevation  	7825
+[40]    Elevation is not given
+[ 0] 18: show_elevation  	3645
+[40]    3409
+[ 0] 19: show_elevation  	8645
+[40]    Elevation is not given
+[ 0] 20: show_latitude  	5431
+[40]    32d 7m 33s North
+[ 0] 21: show_name  	-287
+[40]    Offset is not positive
+[ 0] 22: show_name  	791
+[40]    Henshaw Tank
+[ 0] 23: show_latitude  	9928
+[40]    Offset is too large
+[ 0] 24: show_latitude  	8223
+[40]    Coordinate is not given
+[ 0] 25: quit  	
+[40]    Exiting
